@@ -1,0 +1,9 @@
+#cart-widget > span {
+  color: pink;
+  padding-left: 1rem;
+  font-weight: 900;
+}
+
+.navBar {
+  padding: 0;
+}
