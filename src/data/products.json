@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Spiderman",
+    "id": 1,
+    "category": "juegos",
+    "detail": "juego de acción y aventura",
+    "img": ""
+  },
+  {
+    "name": "Hogwarts",
+    "id": 2,
+    "category": "juegos",
+    "detail": "juego de acción y aventura",
+    "img": ""
+  },
+  {
+    "name": "Resident",
+    "id": 3,
+    "category": "juegos",
+    "detail": "juego de acción y aventura",
+    "img": ""
+  }
+]
