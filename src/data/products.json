@@ -9,15 +9,15 @@
   {
     "name": "Hogwarts",
     "id": 2,
-    "category": "juegos",
+    "category": "consolas",
     "detail": "juego de acción y aventura",
     "img": "https://images.unsplash.com/photo-1711861413115-797ee0655214?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
-    "name": "Resident",
+    "name": "Nemesis",
     "id": 3,
-    "category": "juegos",
-    "detail": "juego de acción y aventura",
+    "category": "figuras",
+    "detail": "Figura de acrílico",
     "img": "https://images.unsplash.com/photo-1712135595180-f3902e325574?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   }
 ]
