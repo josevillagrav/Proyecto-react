@@ -15,13 +15,13 @@ export const NavBar = () => {
         </NavLink>
         {/* </link> */}
         <Nav className="me-auto">
-          <Nav.Link to="/category/consolas" as={NavLink}>
+          <Nav.Link to="/category/Categoría: Consolas" as={NavLink}>
             Consolas
           </Nav.Link>
-          <Nav.Link to="/category/juegos" as={NavLink}>
+          <Nav.Link to="/category/Categoría: Juegos" as={NavLink}>
             Juegos
           </Nav.Link>
-          <Nav.Link to="/category/figuras" as={NavLink}>
+          <Nav.Link to="/category/Categoría: Figuras" as={NavLink}>
             Figuras
           </Nav.Link>
         </Nav>
